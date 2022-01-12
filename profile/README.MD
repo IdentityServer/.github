@@ -1,7 +1,5 @@
 # Welcome to IdentityServer
 
-This organization is the home for our products, [support](https://github.com/DuendeSoftware/IdentityServer/discussions) and
-[docs](https://docs.duendesoftware.com/).
 
 ### Repos
 
