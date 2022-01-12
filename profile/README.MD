@@ -1,5 +1,6 @@
 # Welcome to IdentityServer
 
+see [here](https://identityserver4.readthedocs.io/en/latest/) for documentation.
 
 ### Repos
 
